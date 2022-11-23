@@ -1,0 +1,3 @@
+'''
+Exercício chato. Vou deixar para depois...
+'''
